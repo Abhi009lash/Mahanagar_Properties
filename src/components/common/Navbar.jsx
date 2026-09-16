@@ -46,19 +46,17 @@ const Navbar = () => {
         <div className="flex items-center">
           <a
             href="#"
-            className="inline-block font-medium text-[#AC5504] tracking-normal"
+            className="inline-block font-medium text-[#AC5504] tracking-normal whitespace-nowrap"
             style={{
-              width: '127px',
-              height: '13px',
               fontFamily: "'Cardo', 'Cordo', serif",
               fontStyle: 'normal',
               fontWeight: 500,
-              fontSize: '16px',
-              lineHeight: '13px',
+              fontSize: '18px',
+              lineHeight: '20px',
               color: '#AC5504',
             }}
           >
-            MAHANAGAR
+            MAHANAGAR PROPERTIES
           </a>
         </div>
 
